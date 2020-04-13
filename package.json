@@ -1,0 +1,21 @@
+{
+    "name": "slightly-purple",
+    "displayName": "Slightly Purple",
+    "description": "a theme with purple",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slightly Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Slightly Purple-color-theme.json"
+            }
+        ]
+    }
+}
